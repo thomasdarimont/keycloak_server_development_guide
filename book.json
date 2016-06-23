@@ -12,7 +12,7 @@
     "title": "Server Developer Guide",
     "project": {
       "name": "Keycloak",
-      "version": "SNAPSHOT"
+      "version": "1.9.8.Final"
     },
     "community": true,
     "product": false,
